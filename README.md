@@ -8,7 +8,7 @@ I have also developed custom financial market evaluation tools and aim to eventu
 
 - Learning HTML, CSS, Bootstrap, and JavaScript to build interactive web applications.
 - Expanding my knowledge in IT and networking to strengthen my technical skill set.
-- Exploring new technologies to enhance my development skills.
+- Exploring and learning new technologies to enhance my development skills.
 
   
 🌱 I’m currently learning 
@@ -23,9 +23,9 @@ I have also developed custom financial market evaluation tools and aim to eventu
 
 ⛳ Future projects include
 
-- Designing a nutrition scanning app for analyzing product information.
-- Designing a cloud simulator app to model and simulate actual clouds and weather patterns.
-- Developing and refining my financial market evaluation tools for future projects.
+- Designing a nutrition scanning app for analyzing product information. ❌
+- Designing a cloud simulator app to model and simulate actual clouds and weather patterns. 🕜
+- Developing and refining my financial market evaluation tools for future projects. 🕜
 
 ## Let's Connect 💯
 
