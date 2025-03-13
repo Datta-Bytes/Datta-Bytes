@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub! I'm passionate about technology, software development, and financial markets. I am currently working in the IT and networking industry, further expanding my expertise in technology and infrastructure.
+Welcome to my GitHub! I'm passionate about technology, development, and financial markets. I am currently working in the IT and networking industry, expanding my expertise in technology and infrastructure.
 I have also developed custom financial market evaluation tools and aim to eventually turn them into a full-fledged project.
 
 
