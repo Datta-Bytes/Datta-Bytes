@@ -13,8 +13,8 @@ I have also developed custom financial market evaluation tools and aim to eventu
   
 🌱 I’m currently learning 
 
-- Languages: Python, HTML, CSS, JavaScript.
-- Libraries & Tools: Bootstrap.
+- Languages: HTML, CSS, JavaScript, Python.
+- Libraries & Tools: Bootstrap, Git.
 
 💼 Currently working in
 
