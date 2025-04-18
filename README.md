@@ -4,30 +4,25 @@ Welcome to my GitHub! I'm passionate about technology, development, and financia
 I have also developed custom financial market evaluation tools and aim to eventually turn them into a full-fledged project.
 
 
-🔭 I’m currently working on
+🔭 Working on
 
-- Learning HTML, CSS, Bootstrap, and JavaScript to build interactive web applications.
-- Expanding my knowledge in IT and networking to strengthen my technical skill set.
-- Exploring and learning new technologies to enhance my development skills.
-
+- Frontend technologies in order to build innovative and interactive web applications.
+- Expanding my knowledge in IT and networking , nurturing relevant skill sets.
+- Exploring and learning new tech to be up to date with the next big revolution.
   
-🌱 I’m currently learning 
-
-- Languages: HTML, CSS, JavaScript, Python.
-- Libraries & Tools: Bootstrap, Git.
 
 💼 Currently working in
 
-- IT & Networking industry.
-- Product based company providing SD-WAN solutions.
+- IT & Networking > Product based company providing SD-WAN solutions.
 
 ⛳ Future projects include
 
 - Designing a nutrition scanning app for analyzing product information. ❌
 - Designing a cloud simulator app to model and simulate actual clouds and weather patterns. 🕜
 - Developing and refining my financial market evaluation tools for future projects. 🕜
+- Working on an AI tool for documentations. 🕜
 
-## Let's Connect 💯
+## Let's Connect
 
 
 
