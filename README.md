@@ -27,3 +27,14 @@ I have also developed custom financial market evaluation tools and aim to eventu
 
 
 
+
+
+
+
+
+
+
+
+
+
+P.S. Will make repos public once i hit initial implementation.
